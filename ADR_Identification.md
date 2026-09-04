@@ -20,16 +20,48 @@ The following symptoms were reported:
 - Nausea
 - Dizziness
 
-## 4. ADR Assessment
+## 4. Timeline Analysis
 
-The patient developed rash, itching, nausea, and dizziness after initiation of amoxicillin. The temporal relationship between starting amoxicillin and the onset of symptoms suggests a **possible drug-related adverse event**.
+| Day | Event |
+|---|---|
+| Day -5 | Amoxicillin was started |
+| Day -2 | Patient developed rash, itching, nausea and dizziness |
+| Day 0 | Symptoms were still present |
 
-The combination of rash and itching may be suggestive of a **hypersensitivity-type reaction** to amoxicillin. However, based on the limited information available, a definitive causality assessment cannot be established.
+The symptoms appeared after starting amoxicillin, showing a reasonable temporal relationship between drug exposure and the reported reaction.
 
-## 5. Suspected Drug
+## 5. ADR Identification
+
+The reported symptoms may represent a possible **Adverse Drug Reaction (ADR)** related to amoxicillin.
+
+- **Rash and itching:** May occur as hypersensitivity reactions to amoxicillin.
+- **Nausea:** May occur as an adverse effect of amoxicillin.
+- **Dizziness:** May also be reported as an adverse effect.
+
+Paracetamol was also used by the patient. However, based on the available timeline, **amoxicillin is considered the main suspected drug**.
+
+## 6. Assessment
+
+The reaction is considered a **suspected ADR associated with amoxicillin**.
+
+The timing of the symptoms after starting amoxicillin supports a possible relationship.
+
+However, the available information is not sufficient to confirm causality. Additional information would be required, including:
+
+- Medical history
+- Indication for amoxicillin
+- Dose and dosage frequency
+- Duration of treatment
+- Outcome after stopping the drug
+- Concomitant medications
+- Other possible causes
+
+## 7. Suspected Drug
 
 **Amoxicillin**
 
-## 6. Conclusion
+## 8. Conclusion
 
-Amoxicillin is identified as the suspected drug associated with the reported adverse reactions. The temporal association supports the possibility of an ADR; however, further clinical information would be required to perform a complete causality assessment.
+Amoxicillin is identified as the suspected drug for the reported rash, itching, nausea and dizziness.
+
+The temporal relationship between starting amoxicillin and the appearance of symptoms supports the possibility of an ADR. However, a complete causality assessment would require additional patient and treatment information.
